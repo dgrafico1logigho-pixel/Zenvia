@@ -1,0 +1,3 @@
+# Excluir certificados privados o documentos legales PDF del repositorio público
+*.pdf
+certificado_*.pdf
